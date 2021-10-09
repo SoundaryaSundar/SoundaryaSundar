@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoundaryaSundaram
 - 👀 I’m interested in Embedded electronics and IoT. Love with coding.
 - 🌱 I’m currently learning ThingsBoard, MangoDB
-- 💞️ I’m looking to collaborate on Embedded electronics and database managing persons.
+- 💞️ I’m looking to collaborate on Embedded electronics and database management professionals.
 - 📫 How to reach me ... gnanasoundarya3535@gmail.com
 
 <!---
